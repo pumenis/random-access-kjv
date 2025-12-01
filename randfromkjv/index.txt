@@ -1,0 +1,76 @@
+---
+language: en
+invalidParamTitle: "Invalid parameter"
+invalidParamMessage: "Parameter <code>%s</code> is incorrect"
+acceptedValuesMessage: "Accepted values:"
+noVersesError: "No verses found"
+bookNotFoundError: "Book not found"
+decompressionError: "Error decompressing file"
+versePageTitleFormat: "%s (line %d/%d)"
+---
+10|Genesis|1533
+20|Exodus|1213
+30|Leviticus|859
+40|Numbers|1288
+50|Deuteronomy|959
+60|Joshua|658
+70|Judges|618
+80|Ruth|85
+90|1 Samuel|810
+100|2 Samuel|695
+110|1 Kings|816
+120|2 Kings|719
+130|1 Chronicles|942
+140|2 Chronicles|822
+150|Ezra|280
+160|Nehemiah|406
+190|Esther|272
+220|Job|1070
+230|Psalms|2461
+240|Proverbs|915
+250|Ecclesiastes|222
+260|Song of Solomon|117
+290|Isaiah|1292
+300|Jeremiah|1364
+310|Lamentations|154
+330|Ezekiel|1273
+340|Daniel|357
+350|Hosea|197
+360|Joel|73
+370|Amos|146
+380|Obadiah|21
+390|Jonah|48
+400|Micah|105
+410|Nahum|47
+420|Habakkuk|56
+430|Zephaniah|53
+440|Haggai|38
+450|Zechariah|212
+460|Malachi|55
+470|Matthew|1071
+480|Mark|678
+490|Luke|1151
+500|John|878
+510|Acts|1007
+520|Romans|433
+530|1 Corinthians|437
+540|2 Corinthians|257
+550|Galatians|149
+560|Ephesians|155
+570|Philippians|104
+580|Colossians|95
+590|1 Thessalonians|89
+600|2 Thessalonians|47
+610|1 Timothy|113
+620|2 Timothy|83
+630|Titus|46
+640|Philemon|25
+650|Hebrews|303
+660|James|108
+670|1 Peter|105
+680|2 Peter|61
+690|1 John|105
+700|2 John|13
+710|3 John|14
+720|Jude|25
+730|Revelation|404
